@@ -8,3 +8,5 @@ Project requires DirectX 11 istalled and GPU with tesselation and geomaetry shad
 * Meshes, materials, shaders, buffers management
 * Camera, transform and other components management
 * QT window, slider, buttons and events handling
+
+![Grass screen](grassScreen.png?raw=true "Grass screen")
